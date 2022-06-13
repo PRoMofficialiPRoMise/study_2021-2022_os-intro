@@ -88,11 +88,7 @@ section-titles: true
 
 ##
 
-![Пишу скрипт](image/10.png)
-
-##
-
-![Программа](image/11.png)
+![Программа](image/10.png)
 
 ## Вывод:
 
